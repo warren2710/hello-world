@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+<title>FRCRCE</title>
+   <link rel="stylesheet" type="text/css" href="style.css">
+   
+   
+ </head>
+ 
+<body>
+
+<header id="main-header">
+  <div class="container">
+  <h1>DATABASE OF PROJECT REPORTS</h1>
+  </div> 
+   </header>
+   <nav id="navbar">
+  <div class="container">
+     <ul>
+<li><a href="index.html">Home</a></li>
+<li><a href="about.html">About</a></li>
+<li><a href="student.html">Student</a></li>
+<li><a href="admin.html">Admin</a></li>
+<li><a href="##">Faculty</a></li>
+<li><a href="##">Contact</a></li>
+</ul>
+  </div> 
+   </nav>
+  
+   <nav id="navbar1">
+  <div class="container">
+     <ul>
+<li><a href="student.html">Student Login</a></li>
+<li><a href="portal.html">Student Portal</a></li>
+<li><a href="search.html">Search Projects</a></li>
+
+</ul>
+  </div> 
+   </nav>
+<section id="form2">
+<h3><strong> STUDENT PORTAL </strong></h3>
+
+<form action="google.com" method="post">
+Project name: <input type="text" name="username" />
+<BR /><BR />
+Project Description: <input type="text" name="descript"/>
+<BR /><BR />
+Team Leader: <input type="text" name="username"/>
+<BR /><BR />
+Team Member: <input type="text" name="username"/>
+<BR /><BR />
+<input type="file" name="projectfiles"/>
+<BR /><BR /><BR /><BR />
+<input type="submit" value="UPLOAD" >
+
+</form>
+
+</section>
+</body>
+
+</html>

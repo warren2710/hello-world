@@ -1,0 +1,67 @@
+<html>
+<head>
+   <title>FRCRCE</title>
+   <link rel="stylesheet" type="text/css" href="style.css">
+ </head>
+<body>
+<header id="main-header">
+  <div class="container">
+  <h1>DATABASE OF PROJECT REPORTS</h1>
+  </div> 
+   </header>
+   <nav id="navbar">
+  <div class="container">
+     <ul>
+	 <li><a href="index.html">Home</a></li>
+	 <li><a href="about.html">About</a></li>
+	 <li><a href="student.html">Student</a></li>
+	 <li><a href="admin.html">Admin</a></li>
+	 <li><a href="##">Faculty</a></li>
+	 <li><a href="##">Contact</a></li>
+	 </ul>
+	 <br/>
+   
+   <h2>Vision:</h2>
+<h3><strong>"Moulding Engineers Who Can Build The Nation"</strong></h3><br/>
+
+CRCE will be a center of Excellence in Engineering Education, moulding engineers with state-of-the art technologies, innovative skills and human values matching with the growing expectations of the corporates and the society and thus play an effective role in nation building.
+
+<h2>Mission:</h2>
+Create an excellent scholastic ambience for students and faculty, by providing facilities with state-of-the-art technologies and continuously updating based on the needs of user organizations.Attract, develop and retain teaching faculty of academic excellence, dedication and commitment.Design the academic administration system to ensure effective teaching - learning process facilitating participation from students and teachers and enabling continuous improvement through evaluation and feed back.Provide avenues for holistic development of students to become competent engineers with interpersonal skills, leadership qualities and social concern.
+
+Maintain economic discipline, continuously work for optimal utilization of resources and resource generation through consultancy to make quality education affordable. Every body in the organization to be a role model for integrity, upholding ethical values, fairness and transparency in all dealings.
+<br/><br/>
+<h2>Core Values:</h2>
+<em>Integrity:</em><br/>
+We strive to provide an education that inculcates honesty, fairness and empathy for fellow citizens. We are committed in our mission to imbibe, in students, the integrity of character to ensure coherence between actions, duties and responsibilities.
+<br/><br/>
+<em>Discipline:</em><br/>
+Essential condition for consistent growth and progress is the application of disciplined efforts towards it. Our institute is committed to a disciplined academic regime for students. Discipline in terms of social behavior, campus life and academic endeavors.
+<br/><br/>
+<em>Originality:</em><br/>
+Todays industrial and technology growth is innovation driven. Originality is the keyword in todays world. Institute gives thrust on project based experiential learning which stimulates original ideas which leads to innovation.
+<br/><br/>
+<em>Quality:</em><br/>
+Great Indian philosopher Vivekananda said that greatest sin is to think yourself weak. Knowledge is power. We pursue the power. We strive for excellence in all our academic endeavors.
+<br/><br/>
+<em>Competitive spirit:</em><br/>
+The basis of growth is talent and desire to prove it. The competitive spirit along with talent is prerequisite for the excellence. Our institute makes special efforts to fire the competitive spirit among the students by holding various technical competition which brings out the best from the students.
+<br/><br/>
+<em>Concern towards Society:</em><br/><br/>
+We believe that our existence is for and due to the students. Service to the nation is achieved by providing well trained technical manpower. We are committed to fostering the professional and personal growth of all students with lifelong learning experiences and at the same time ensuring an environment for holistic development.
+<br/><br/><br/>
+<h2>Brief History:</h2>
+Fr. Conceicao Rodrigues College of Engineering (CRCE) was established in 1984 as part of Fr. Agnel Technical Complex at Bandra, Mumbai by the Society of St. Xavier Pilar, a public and charitable trust.
+
+The College of Engineering is named after one of its founding father, Reverent Fr. Conceicao Rodrigues who was a rare visionary and freedom fighter possessed with unbounded energy and resoluteness of purpose. Under the inspiration of this charismatic founder, the Agnel Fathers (the trustees of St. Francis Xavier Pilar) realized that their contribution to the process of nation building would be through the spread of facilities for technical education and accordingly acquired experience in providing technical education facilities through the establishment of Technical Educational complexes in different part of country - Bandra (Mumbai), Vashi (Navi Mimbai), Verna (Goa), New Delhi, Noida, Pune, and Ambarnath (Thane). Each unit imparts technical education at various levels - skilled trades, technicians, and engineers.
+
+Beginning with an orphanage (Bal Bhuvan) and a trade school in carpentary, the Agnel Ashram (set up in 1957 at Bandra, Mumbai) has today grown into a full fledged Technical Complex with Industrial Training Institute, Polytechnic, and Engineering College, along with a school (Kinder Garden to 12th Standard).
+
+Though Fr. Rodrigues did not live long enough to see his dream come true in the form of College of Engineering at Bandra, the clearance for this college had just been obtained days before his sudden demise in 1984. The college today proudly bears his name as a fitting tribute to his impassioned faith in highly qualified and fully trained engineers and technicians in the service of the nation. The visionary principles on which the institution was founded have been nurtured and fostered in succeeding years and continue to guide the functioning of the college even today.
+
+The College is named after its founder Late Rev. Fr. Conceicao Rodrigues. The College was started with only one course Production Engineering with intake capacity of 60 students. Three years later, in 1987, course in Electronics Engineering was started with intake capacity of 60 students. In 1991, course in Computer Engineering was started with intake capacity of 60 students. In 2000, the intake capacity of Computer Engineering Course was doubled. In 2001, the course in Information technology was started with intake capacity of 30 students.
+  </div> 
+   </nav>
+  
+   </body>
+   </html>

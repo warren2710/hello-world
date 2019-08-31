@@ -1,0 +1,419 @@
+body{
+background-color:#f4f4f4;
+color:#555;
+font-family:Times New Roman;
+font-size:16px;
+line-height:1.6em;
+margin:0;
+}
+.container{
+width:80%;
+margin:auto;
+overflow:hidden;
+}
+#main-header{
+background-color:coral;
+color:#fff;
+}
+#navbar{
+background-color:#333;
+color:#fff;
+}
+#navbar ul{
+padding:0;
+list-style: none;
+}
+#navbar li{
+display:inline;
+}
+#navbar a{
+color:#fff;
+text-decoration: none;
+font-size:18px;
+padding-right:30px;
+}
+#showcase{
+background-image:url('C:/Users/Wayne!!!!!/Desktop/image.jpg');
+background-position:center right;
+height:300px;
+width:1500px;
+margin-bottom:30px;
+text-align: center;
+}
+#showcase h1{
+color:#fff;
+font-size:50px;
+line-height:1.6em;
+padding-top:30px;
+}
+#Imt{
+float:left;
+width:70%;
+padding:0 30px;
+box-sizing:border-box;
+}
+#main{
+float:left;
+width:70%;
+padding:0 30px;
+box-sizing:border-box;
+}
+#sidebar{
+float:right;
+width:30%;
+background: #333;
+color:#fff;
+padding:0 30px;
+box-sizing:border-box;
+}
+#main-footer{
+background: #333;
+color:#fff;
+text-align: center;
+padding:10px;
+margin-top:40px;
+}
+#form{
+float:center;
+text-align: center;
+width:100%;
+background: grey;
+color:white;
+padding:0 80px;
+box-sizing:border-box;
+}
+#navbar1{
+background-color: coral;
+color:#fff;
+}
+#navbar1 ul{
+padding:0;
+list-style: none;
+}
+#navbar1 li{
+display:inline;
+}
+#navbar1 a{
+color:#fff;
+text-decoration: none;
+font-size:18px;
+padding-right:30px;
+}
+#form1{
+float:center;
+text-align: center;
+width:100%;
+background: white;
+color:white;
+padding:0 80px;
+box-sizing:border-box;
+}
+#admin{
+float:center;
+text-align: center;
+width:100%;
+background: grey;
+color:white;
+padding:0 80px;
+box-sizing:border-box;
+}
+#search{
+  width: 100%;
+  box-sizing: border-box;
+  border: 2px solid #ccc;
+  border-radius: 4px;
+  font-size: 16px;
+  background-color: white;
+  background-image: url('searchicon.png');
+  background-position: 10px 10px; 
+  background-repeat: no-repeat;
+  padding: 12px 20px 12px 40px;
+}
+#body{
+	margin:0;
+	color:#6a6f8c;
+	background:#c8c8c8;
+	font:600 16px/18px 'Open Sans',sans-serif;
+}
+*,:after,:before{box-sizing:border-box}
+.clearfix:after,.clearfix:before{content:'';display:table}
+.clearfix:after{clear:both;display:block}
+a{color:inherit;text-decoration:none}
+
+.login-wrap{
+	width:100%;
+	margin:auto;
+	max-width:525px;
+	min-height:670px;
+	position:relative;
+	background:url(https://raw.githubusercontent.com/khadkamhn/day-01-login-form/master/img/bg.jpg) no-repeat center;
+	box-shadow:0 12px 15px 0 rgba(0,0,0,.24),0 17px 50px 0 rgba(0,0,0,.19);
+}
+.login-html{
+	width:100%;
+	height:100%;
+	position:absolute;
+	padding:90px 70px 50px 70px;
+	background:rgba(40,57,101,.9);
+}
+.login-html .sign-in-htm,
+.login-html .sign-up-htm{
+	top:0;
+	left:0;
+	right:0;
+	bottom:0;
+	position:absolute;
+	transform:rotateY(180deg);
+	backface-visibility:hidden;
+	transition:all .4s linear;
+}
+.login-html .sign-in,
+.login-html .sign-up,
+.login-form .group .check{
+	display:none;
+}
+.login-html .tab,
+.login-form .group .label,
+.login-form .group .button{
+	text-transform:uppercase;
+}
+.login-html .tab{
+	font-size:22px;
+	margin-right:15px;
+	padding-bottom:5px;
+	margin:0 15px 10px 0;
+	display:inline-block;
+	border-bottom:2px solid transparent;
+}
+.login-html .sign-in:checked + .tab,
+.login-html .sign-up:checked + .tab{
+	color:#fff;
+	border-color:#1161ee;
+}
+.login-form{
+	min-height:345px;
+	position:relative;
+	perspective:1000px;
+	transform-style:preserve-3d;
+}
+.login-form .group{
+	margin-bottom:15px;
+}
+.login-form .group .label,
+.login-form .group .input,
+.login-form .group .button{
+	width:100%;
+	color:#fff;
+	display:block;
+}
+.login-form .group .input,
+.login-form .group .button{
+	border:none;
+	padding:15px 20px;
+	border-radius:25px;
+	background:rgba(255,255,255,.1);
+}
+.login-form .group input[data-type="password"]{
+	text-security:circle;
+	-webkit-text-security:circle;
+}
+.login-form .group .label{
+	color:#aaa;
+	font-size:12px;
+}
+.login-form .group .button{
+	background:#1161ee;
+}
+.login-form .group label .icon{
+	width:15px;
+	height:15px;
+	border-radius:2px;
+	position:relative;
+	display:inline-block;
+	background:rgba(255,255,255,.1);
+}
+.login-form .group label .icon:before,
+.login-form .group label .icon:after{
+	content:'';
+	width:10px;
+	height:2px;
+	background:#fff;
+	position:absolute;
+	transition:all .2s ease-in-out 0s;
+}
+.login-form .group label .icon:before{
+	left:3px;
+	width:5px;
+	bottom:6px;
+	transform:scale(0) rotate(0);
+}
+.login-form .group label .icon:after{
+	top:6px;
+	right:0;
+	transform:scale(0) rotate(0);
+}
+.login-form .group .check:checked + label{
+	color:#fff;
+}
+.login-form .group .check:checked + label .icon{
+	background:#1161ee;
+}
+.login-form .group .check:checked + label .icon:before{
+	transform:scale(1) rotate(45deg);
+}
+.login-form .group .check:checked + label .icon:after{
+	transform:scale(1) rotate(-45deg);
+}
+.login-html .sign-in:checked + .tab + .sign-up + .tab + .login-form .sign-in-htm{
+	transform:rotate(0);
+}
+.login-html .sign-up:checked + .tab + .login-form .sign-up-htm{
+	transform:rotate(0);
+}
+
+.contact1{
+	max-width:400px;
+	width:100%;
+	margin:0 auto;
+	position:relative;
+}
+
+#contact input[type="text"], #contact input[type="email"], #contact input[type="tel"], #contact input[type="url"], #contact textarea, #contact button[type="submit"] { font:400 12px/16px "Open Sans", Helvetica, Arial, sans-serif; }
+
+#contact {
+	background:#F9F9F9;
+	padding:25px;
+	margin:50px 0;
+}
+
+#contact h3 {
+	color: #F96;
+	display: block;
+	font-size: 30px;
+	font-weight: 400;
+}
+
+#contact h4 {
+	margin:5px 0 15px;
+	display:block;
+	font-size:13px;
+}
+
+fieldset {
+	border: medium none !important;
+	margin: 0 0 10px;
+	min-width: 100%;
+	padding: 0;
+	width: 100%;
+}
+
+#contact input[type="text"], #contact input[type="email"], #contact input[type="tel"], #contact input[type="url"], #contact textarea {
+	width:100%;
+	border:1px solid #CCC;
+	background:#FFF;
+	margin:0 0 5px;
+	padding:10px;
+}
+
+#contact input[type="text"]:hover, #contact input[type="email"]:hover, #contact input[type="tel"]:hover, #contact input[type="url"]:hover, #contact textarea:hover {
+	-webkit-transition:border-color 0.3s ease-in-out;
+	-moz-transition:border-color 0.3s ease-in-out;
+	transition:border-color 0.3s ease-in-out;
+	border:1px solid #AAA;
+}
+
+#contact textarea {
+	height:100px;
+	max-width:100%;
+  resize:none;
+}
+
+#contact button[type="submit"] {
+	cursor:pointer;
+	width:100%;
+	border:none;
+	background:#0CF;
+	color:#FFF;
+	margin:0 0 5px;
+	padding:10px;
+	font-size:15px;
+}
+
+#contact button[type="submit"]:hover {
+	background:#09C;
+	-webkit-transition:background 0.3s ease-in-out;
+	-moz-transition:background 0.3s ease-in-out;
+	transition:background-color 0.3s ease-in-out;
+}
+
+#contact button[type="submit"]:active { box-shadow:inset 0 1px 3px rgba(0, 0, 0, 0.5); }
+
+#contact input:focus, #contact textarea:focus {
+	outline:0;
+	border:1px solid #999;
+}
+::-webkit-input-placeholder {
+ color:#888;
+}
+:-moz-placeholder {
+ color:#888;
+}
+::-moz-placeholder {
+ color:#888;
+}
+:-ms-input-placeholder {
+ color:#888;
+}
+
+
+
+.container5 {
+  width: max-content;
+  margin: 20px auto 0;
+}
+
+.search5 {
+  width: 100%;
+  margin: 20px auto 0;
+}
+
+.search5 > input:focus {
+  outline:none;
+}
+
+.search5 > input {
+  width: 100%;
+  border: none;
+  font-size: 22px;
+  background-color: rgba(0,0,0,0);
+  border-bottom: 4px solid lightgrey;
+}
+
+.person-card {
+  transition: .4s;
+  cursor: pointer;
+  background-color: #fff;
+  padding: 10px;
+  margin: 10px 0;
+}
+
+.person-list {
+  padding: 0;
+  list-style-type: none;
+}
+
+.person-name {
+  font-weight: 600;
+  display: block;
+  text-decoration: none;
+  color: #dd5600;
+}
+
+.company-name {
+  font-weight: 600;
+}
+
+.job-title- {
+  font-style: italic
+}
+

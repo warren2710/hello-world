@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+   <title>FRCRCE</title>
+   <link rel="stylesheet" type="text/css" href="style.css">
+ </head>
+<body>
+<header id="main-header">
+  <div class="container">
+  <h1>DATABASE OF PROJECT REPORTS</h1>
+  </div> 
+   </header>
+   <nav id="navbar">
+  <div class="container">
+     <ul>
+	 <li><a href="index.html">Home</a></li>
+	 <li><a href="about.html">About</a></li>
+	 <li><a href="admin.html">Admin</a></li>
+	 <li><a href="##">Faculty</a></li>
+	 <li><a href="##">Student</a></li>
+	 <li><a href="##">Contact</a></li>
+	 </ul>
+  </div> 
+   </nav>
+   
+   <section id="showcase">
+   <div class="container">
+   <h1>"Moulding Engineers Who Can Build The Nation"
+   </h1>
+   </div></section
+   <h3>Project Ideas For Engineers</h3>
+   <p>Projects are always in high demand. Students work on them to improve their skills, whereas
+ hobbyists like the fun in meddling with technology. For professionals, 
+ it’s a different ball game altogether. Projects form a middle ground
+ for all segments of engineers looking to build. We compiled all 
+ of interesting and practical project ideas for you to work on.
+ Let’s look.</p>
+    </div></section>
+	<div class="container">
+  <section id="main">
+  
+   <h2>hello world
+   </h2>
+   <p>hi my name is warren
+   Projects are always in high demand. Students work on them to improve their skills, whereas
+ hobbyists like the fun in meddling with technology. For professionals, 
+ it’s a different ball game altogether. Projects form a middle ground
+ for all segments of engineers looking to build. We compiled all 
+ of interesting and practical project ideas for you to work on.
+ Let’s look.
+   </p>
+   </section>
+   <aside id="sidebar">
+   <p>hello all
+   Projects are always in high demand. Students work on them to improve their skills, whereas
+ hobbyists like the fun in meddling with technology. For professionals, 
+ it’s a different ball game altogether. Projects form a middle ground
+ for all segments of engineers looking to build. We compiled all 
+ of interesting and practical project ideas for you to work on.
+ Let’s look.</p>
+   </aside>
+   </div>
+   <footer id="main-footer">
+   <p>Copyright &copy; 2019 DATABASE OF PROJECT REPORTS</p></footer>
+   </body>
+   </html>

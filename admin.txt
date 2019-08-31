@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+   <title>FRCRCE</title>
+   <link rel="stylesheet" type="text/css" href="style.css">
+ </head>
+<body>
+<header id="main-header">
+  <div class="container">
+  <h1>DATABASE OF PROJECT REPORTS</h1>
+  </div> 
+   </header>
+   <nav id="navbar">
+  <div class="container">
+     <ul>
+<li><a href="index.html">Home</a></li>
+<li><a href="about.html">About</a></li>
+<li><a href="admin.html">Admin</a></li>
+<li><a href="##">Faculty</a></li>
+<li><a href="##">Student</a></li>
+<li><a href="##">Contact</a></li>
+</ul>
+  </div> 
+   </nav>
+
+<BR />
+<h3><strong>ADMIN LOGIN </strong></h3>
+
+<form action="google.com" method="post">
+Login ID: <input type="text" name="username" />
+<BR /><BR />
+Password: <input type="password" name="pword"/>
+
+<BR /><BR /><BR />
+<input type="submit" value="Lets Go" >
+</form>
+
+</body>
+
+</html>
